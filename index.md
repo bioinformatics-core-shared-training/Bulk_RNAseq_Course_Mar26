@@ -44,6 +44,8 @@ differential expression analysis of RNA-seq data.
 
 9:45 - 10:15 - [Introduction to RNAseq Methods](Bulk_RNAseq_Course_Base/Markdowns/01_Introduction_to_RNAseq_Methods.html) - Hugo
 
+  - [Alternative slides](https://docs.google.com/presentation/d/1PYzszp7KBMXo3Vutv17epepOpqHhsiyMkQzEXKSSsm8/edit?usp=sharing)
+
 10:15 - 11:00 [Raw read file format and QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) - Vic
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
@@ -61,10 +63,9 @@ differential expression analysis of RNA-seq data.
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf))
 
-15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides.html) - Hugo
+15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides2.html) - Hugo
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf))
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) 
   <!-- - [Live script](live_scripts/)  -->
 
 
