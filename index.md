@@ -83,6 +83,7 @@ differential expression analysis of RNA-seq data.
 
 13:30 - 17:00 [Practical - Differential Expression for RNA-seq](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.pdf)) - Ash
   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf))
+  - [Interaction Term Slides](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/08_Interaction_model_slides.pdf)
   <!-- - [Live script](live_scripts/)  -->
 
 **Bonus materials:**
