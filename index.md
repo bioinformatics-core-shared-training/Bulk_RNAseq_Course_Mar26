@@ -79,7 +79,7 @@ differential expression analysis of RNA-seq data.
 
 11:30 - 12:30 [Linear Models in R and DESeq2 (Slides)](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/07_Statistics_2.pdf) - Daianna
 
-13:00 - 14:30 Lunch
+12:30 - 13:30 Lunch
 
 13:30 - 17:00 [Practical - Differential Expression for RNA-seq](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.pdf)) - Ash
   - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2_solutions.pdf))
